@@ -1,7 +1,7 @@
 # Manim
 This is a repository for my exercise make animation with Manim libarary developed by 3Blue1Brown. 
 
-I use Manim
+https://www.manim.community/
 
 
 Requirements
