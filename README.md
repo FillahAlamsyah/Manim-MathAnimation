@@ -1,6 +1,7 @@
 # Manim
-This is a repository for my exercise make animation with Manim libarary developed by 3Blue1Brown. 
+This is a repository for my exercise make animation with Manim (python library) developed by 3Blue1Brown. 
 
+Manim Official Website
 https://www.manim.community/
 
 
@@ -11,4 +12,5 @@ Requirements
 4. PyCairo
 5. Sox
 
-Check my Youtube Channel : https://youtube.com/channel/UCCl3xGZbVUGRDudxwhHvFcw
+Check playlist of my animation videos on my Youtube Channel : 
+https://youtube.com/playlist?list=PLpPkQJFNQDqZjoFSdXS_hPsov8wBPShR8
